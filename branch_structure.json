@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "uiux/bills-recurring-toggle"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "uiux/bills-recurring-toggle": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "uiux/bills-recurring-toggle"
+  ]
+}
